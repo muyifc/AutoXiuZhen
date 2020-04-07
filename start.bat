@@ -1,0 +1,1 @@
+py Scripts/main.py
